@@ -1,7 +1,7 @@
 # TM_PV_ADC
 
 ## Related Thesis
-You can download the report of this Master Thesis -> [Master's Thesis - Maxime Charriere - 2024.pdf](./Report/Master's Thesis - Maxime Charriere - 2024.pdf).
+You can download the report of this Master Thesis -> [Master's Thesis - Maxime Charriere - 2024.pdf](Report/Master's%20Thesis%20-%20Maxime%20Charriere%20-%202024.pdf).
 
 ## Code
 
