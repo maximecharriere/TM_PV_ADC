@@ -1,11 +1,11 @@
-# TM_PV_ADC
+# Anomaly Detection and Classification for Photovoltaic Systems
 
-## Related Thesis
-You can download the report of this Master Thesis -> [Master's Thesis - Maxime Charriere - 2024.pdf](Report/Master's%20Thesis%20-%20Maxime%20Charriere%20-%202024.pdf).
+## Master's Thesis
+The Master's Thesis can be downloaded here -> [Master's Thesis - Maxime Charriere - 2024.pdf](Report/Master's%20Thesis%20-%20Maxime%20Charriere%20-%202024.pdf)
 
 ## Code
 
-The code is available on the GitHub repository -> [maximecharriere/TM_PV_ADC](https://github.com/maximecharriere/TM_PV_ADC).
+The code is available on this GitHub repository -> [maximecharriere/TM_PV_ADC](https://github.com/maximecharriere/TM_PV_ADC)
 
 ### Setup 
 
