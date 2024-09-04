@@ -1,4 +1,5 @@
 # Anomaly Detection and Classification for Photovoltaic Systems
+> Master's Thesis by Maxime Charriere
 
 ## Master's Thesis
 The Master's Thesis can be downloaded here -> [Master's Thesis - Maxime Charriere - 2024.pdf](Report/Master's%20Thesis%20-%20Maxime%20Charriere%20-%202024.pdf)
