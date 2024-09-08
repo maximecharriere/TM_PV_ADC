@@ -74,10 +74,10 @@ anomalies = (r_production - a_production) / r_production * 100
 
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=cc_production.index, y=weatherClearSky['dni'], mode='lines', name='Solar Direct Normal Power', fill='tozeroy', fillcolor='rgba(96, 235, 96, 1)', line=dict(color='rgba(96, 235, 96, 1)')))
-fig.add_trace(go.Scatter(x=cc_production.index, y=cc_production, mode='lines', name='Optimal System-Specific Power', fill='tozeroy', fillcolor='rgba(66, 216, 227, 1)', line=dict(color='rgba(66, 216, 227, 1)')))
-fig.add_trace(go.Scatter(x=r_production.index, y=r_production, mode='lines', name='Power with Regional Factors (clouds, temperature, etc.)', fill='tozeroy', fillcolor='rgba(255, 211, 88, 1)', line=dict(color='rgba(255, 211, 88, 1)')))
-fig.add_trace(go.Scatter(x=a_production.index, y=a_production, mode='lines', name='Measured Power (with anomlies)', fill='tozeroy', fillcolor='rgba(227, 66, 89, 1)', line=dict(color='rgba(227, 66, 89, 0)')))
-fig.add_trace(go.Scatter(x=a_production.index, y=anomalies, mode='lines', name='Impact of anomalies (in percent)', line=dict(color='red')))
+fig.add_trace(go.Scatter(x=cc_production.index, y=cc_production, mode='lines', name='Maximum Production Power (with System-Specific Factors)', fill='tozeroy', fillcolor='rgba(66, 216, 227, 1)', line=dict(color='rgba(66, 216, 227, 1)')))
+fig.add_trace(go.Scatter(x=r_production.index, y=r_production, mode='lines', name='Expected Production Power (with Regional Factors)', fill='tozeroy', fillcolor='rgba(255, 211, 88, 1)', line=dict(color='rgba(255, 211, 88, 1)')))
+fig.add_trace(go.Scatter(x=a_production.index, y=a_production, mode='lines', name='Measured Production Power (with Anomlies)', fill='tozeroy', fillcolor='rgba(227, 66, 89, 1)', line=dict(color='rgba(227, 66, 89, 0)')))
+fig.add_trace(go.Scatter(x=a_production.index, y=anomalies, mode='lines', name='Impact of Anomalies (in %)', line=dict(color='red')))
 
 # set the size to 666x1000
 fig.update_layout(width=1000, height=666)
