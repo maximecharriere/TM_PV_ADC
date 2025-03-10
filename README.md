@@ -2,6 +2,8 @@
 > Master's Thesis by **Maxime Charriere**  
 > Supervised by Prof. **Dr. Christof Bucher** and **Prof. Dr. Horst Heck**  
 
+![Master's Thesis Poster - Maxime Charriere - 2024.jpg](Report/Master's%20Thesis%20Poster%20-%20Maxime%20Charriere%20-%202024.jpg)
+
 ## Useful resources 
 
 - **Poster**: The Poster can be downloaded here -> [Master's Thesis Poster - Maxime Charriere - 2024.pdf](Report/Master's%20Thesis%20Poster%20-%20Maxime%20Charriere%20-%202024.pdf)
